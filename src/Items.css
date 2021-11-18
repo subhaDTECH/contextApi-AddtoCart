@@ -1,0 +1,35 @@
+.card-image > img{
+   height: 280px;
+}
+.items{
+   
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+}
+.item__input{
+    padding: 15px !important;
+   
+    width: 100px;
+    height: 30px;
+    text-align: center;
+}
+.btn-floating{
+    margin-left: 60px !important;
+}
+.card{
+    width: 400px !important;
+}
+::placeholder{
+    font-weight: 700 !important;
+    font-size: 20px;
+    color: darkblue;
+}
+.card-action{
+    display: flex !important;
+    text-align: center !important;
+}
+.removebtn{
+    margin-left: 20px !important;
+}

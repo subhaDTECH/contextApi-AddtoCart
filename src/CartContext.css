@@ -1,0 +1,22 @@
+.carcontext{
+    border: 1px solid darkblue;
+    height: 70vh;
+    position: relative;
+    overflow-y: scroll;
+    margin: 0 auto !important;
+    
+    text-align: center;
+}
+.noitem{
+    text-align: center;
+}
+.btn_odr{
+    width: 130px;
+    border: 0;
+    padding: 10px 20px;
+    border-radius: 4px;
+    background-color: darkorange;
+    color: aliceblue;
+    outline: 0;
+    cursor: pointer;
+}
